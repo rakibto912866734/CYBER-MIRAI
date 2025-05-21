@@ -2,8 +2,8 @@ module.exports.config = {
   name: "hack", 
   version: "1.0.0", 
   hasPermission: 0,
-  credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
-  description: "example"
+  credits: "Islamick Cyber Chat",
+  description: "example",
   commandCategory: "Fun", 
   usages: "user", 
   cooldowns: 5,
