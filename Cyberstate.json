@@ -1,3 +1,110 @@
-
-
-Add Your Fbstate ✨💜
+[
+    {
+        "key": "datr",
+        "value": "S19JZzarjtKfjvEH1zGtKC7u",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "sb",
+        "value": "S19JZxAa0XVULimzUvgi-ace",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "oo",
+        "value": "v1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B688x360x3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61575542976941",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "fr",
+        "value": "0EtmHxGrDad3qhC6k.AWfT6fAZbUIFTME6NvntKscxLM71oqbbxLpG0qkLM1skwna_hOc.BoKgMM..AAA.0.0.BoK1Q3.AWfMdT6C3M6YeC66MQOlc9j2x24",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "xs",
+        "value": "49%3AvuPq42346aqadw%3A2%3A1747670072%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100430109%3BT%3A29133150",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2827%3Btimestamp%3A1747989028",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-23T08:31:58.559Z",
+        "lastAccessed": "2025-05-23T08:31:58.559Z"
+    }
+]
